@@ -1,0 +1,44 @@
+
+body{
+    font-family: monospace;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+.nav{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0px;
+    text-transform: uppercase;
+    font-size: 30px;
+    height: 50px;
+}
+.fot{
+    height: 79px;
+    width: 100%;
+    background-color: greenyellow;
+}
+ul{
+    display: inline;
+    margin: 0;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.side{
+    display: block;
+    width: 30%;
+    background-color: red;
+}
+.con{
+    display: block;
+    width: 70%;
+    background-color: grey;
+}
+.com{
+    display:flex;
+    height: 80vh;
+    font-size: 20px;
+
+}
